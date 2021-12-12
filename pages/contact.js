@@ -15,8 +15,8 @@ const Contact = () => {
                         <div className="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
                             <div className="contact-info-item">
                             <h3 className="mb-3 text-white">Say hello</h3>
-                            <p className="footer-text mb-0">010 020 0960</p>
-                            <p><a href="mailto:test@gmail.com">test@gmail.com</a></p>
+                            <p className="footer-text mb-0">7028073007</p>
+                            <p><a href="mailto:yashkapure06@gmail.com">test@gmail.com</a></p>
                             </div>
 
                             <ul className="social-links">
@@ -31,7 +31,7 @@ const Contact = () => {
                         <div className="contact-form">
                         <h2 className="mb-4">Interested to work together? Lets talk</h2>
 
-                        <form method="get">
+                        <form action="mailto:yashkapure06@gmail.com" method="get">
                             <div className="row">
                             <div className="col-lg-6 col-12">
                                 <input type="text" className="form-control" name="name" placeholder="Your Name" id="name"/>
